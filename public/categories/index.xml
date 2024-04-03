@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Huabing Blog</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Huabing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>/categories/tech/</link>
+      <link>//localhost:1313/categories/tech/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/tech/</guid>
+      <guid>//localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Mynotes</title>
-      <link>/categories/mynotes/</link>
+      <link>//localhost:1313/categories/mynotes/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/mynotes/</guid>
+      <guid>//localhost:1313/categories/mynotes/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
-      <link>/categories/tips/</link>
+      <link>//localhost:1313/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/tips/</guid>
+      <guid>//localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>/categories/life/</link>
+      <link>//localhost:1313/categories/life/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/life/</guid>
+      <guid>//localhost:1313/categories/life/</guid>
       <description></description>
     </item>
   </channel>
